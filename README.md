@@ -25,31 +25,12 @@ Additionally, there are strategies available for utilization within TradingView.
 
 Please be aware that some Expert Advisors (EAs) have been combined with the Grid technique to forcefully enhance profitability, but this approach also introduces significant risk. It's important to note that the optimal symbol, time frame, and parameters for each EA may vary depending on your broker and account specifications. Therefore, before deploying any EA on your live account, we strongly recommend conducting thorough backtesting to ensure its effectiveness and reliability.
 
-## 🚀 Support This Project
-
-Creating and maintaining this open-source project takes significant time and effort. If you find value in my work, consider supporting the project with a donation. Every contribution, no matter the size, helps sustain and improve the project.
-
-To make a contribution, please send it in `USDT TRC20` to the following crypto address:
-
-```
-TUSZtoZGzwXxnL6KQ9RjimtY1TY7dTEjFL
-```
-
-Thank you for your support! 🙏❤️
-
-### 🌟 Get Featured as a Sponsor
-
-If you'd like to be recognized as a sponsor of this project, simply message me on Telegram `@Rsajedi2020` after your donation. I'll gladly add your name or organization to the list of sponsors.
 
 ## 🛠️ MQL5 Development Services
 
 I’m available for MQL5 development projects! If you have a custom project or need a tailored solution, feel free to reach out to me. 
 
-📩 **Contact me on Telegram**: `@Rsajedi2020` to discuss your requirements and get a quote. Let’s bring your trading ideas to life!
-
-## 🏆 Credits
-
-**Rabist [AUTHOR]** - view on [LinkedIn](https://www.linkedin.com/in/rabist).
+📩 **Contact me on teams**: `mpihovsky@outlook.com` to discuss your requirements and get a quote. Let’s bring your trading ideas to life!
 
 ## 📜 License
 
